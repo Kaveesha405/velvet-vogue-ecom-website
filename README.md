@@ -161,6 +161,5 @@ velvet-vogue-ecom-website/
 
 **Kaveesha Amiru** | Student ID: 00272845  
 HND in Computing — Web Design and Development Module  
-Lecturer: Mr. Shanuka
 
 > This project was developed for academic purposes.
