@@ -36,15 +36,15 @@ A branded, multi-page e-commerce website built for **Velvet Vogue**, a contempor
 
 The site uses a single MySQL database named `velvetvogue`. It contains the following tables:
 
-- `adminusers` — admin account credentials for dashboard access
-- `users` — registered customer login and address information
-- `categories` — product category definitions
-- `products` — product records including name, description, price, rating, sizes, and colours
-- `product_categories` — many-to-many junction table linking products to categories
-- `cart` — items added to cart by users, including size and colour choices
-- `orders` — completed checkout records for both registered and guest users
-- `order_items` — individual product lines per order with quantity, size, colour, and final price
-- `inquiries` — customer messages submitted via the Contact page, with status tracking (new, read, replied)
+- `adminusers` - admin account credentials for dashboard access
+- `users` - registered customer login and address information
+- `categories` - product category definitions
+- `products` - product records including name, description, price, rating, sizes, and colours
+- `product_categories` - many-to-many junction table linking products to categories
+- `cart` - items added to cart by users, including size and colour choices
+- `orders` - completed checkout records for both registered and guest users
+- `order_items` - individual product lines per order with quantity, size, colour, and final price
+- `inquiries` - customer messages submitted via the Contact page, with status tracking (new, read, replied)
 
 ***
 
@@ -160,6 +160,6 @@ velvet-vogue-ecom-website/
 ## Author
 
 **Kaveesha Amiru** | Student ID: 00272845  
-HND in Computing — Web Design and Development Module  
+HND in Computing - Web Design and Development Module  
 
 > This project was developed for academic purposes.
